@@ -1,0 +1,5 @@
+package JavaBasis;
+
+@interface JavaBasis {
+
+}
